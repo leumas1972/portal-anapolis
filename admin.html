@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Painel do Robô - Visão Anápolis</title>
+    <style>
+        body { font-family: sans-serif; background: #f4f4f4; padding: 50px; text-align: center; }
+        .painel { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); max-width: 500px; margin: auto; }
+        input { width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px; }
+        button { background: #00a19a; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        button:hover { background: #00817a; }
+    </style>
+</head>
+<body>
+    <div class="painel">
+        <img src="https://visaoanapolis.com.br/wp-content/uploads/2021/06/Logo-Visao-Anapolis.png" width="200">
+        <h2>🤖 Robô de Notícias</h2>
+        <p>Cole o link da notícia abaixo:</p>
+        <input type="text" id="linkNoticia" placeholder="https://portal6.com.br/noticia-exemplo">
+        <button onclick="importarNoticia()">IMPORTAR PARA O SITE</button>
+    </div>
+    <script src="auto.js"></script>
+</body>
+</html>
