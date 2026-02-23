@@ -1,9 +1,37 @@
 [
   {
-    "url": "",
-    "titulo": "Notícia de Teste",
-    "imagem": "https://via.placeholder.com/800x400",
+    "url": "https://portal6.com.br/2025/02/16/com-a-upa-da-vila-esperanca-em-reforma-unidade-da-vila-norte-tem-atendimento-mais-rapido-que-hospital-alfredo-abrahao/",
+    "titulo": "Unidade da Vila Norte tem atendimento mais rápido que Hospital Alfredo Abrahão",
+    "imagem": "https://portal6.com.br/wp-content/uploads/2024/05/upa-anapolis.jpg",
+    "categoria": "SAÚDE",
+    "data": "16/02/2025"
+  },
+  {
+    "url": "https://portal6.com.br/2025/02/16/fiscalizacao-da-prefeitura-descobre-falcatrua-no-camelo-de-anapolis/",
+    "titulo": "Fiscalização da Prefeitura descobre falcatrua no camelódromo de Anápolis",
+    "imagem": "https://portal6.com.br/wp-content/uploads/2023/11/camelodromo.jpg",
     "categoria": "ANÁPOLIS",
-    "data": "22/02/2026"
+    "data": "16/02/2025"
+  },
+  {
+    "url": "https://portal6.com.br/2025/02/16/novo-concurso-publico-da-assembleia-legislativa-de-goias-tera-cargos-ineditos-veja-a-lista/",
+    "titulo": "Novo concurso da Alego terá cargos inéditos; veja a lista",
+    "imagem": "https://portal6.com.br/wp-content/uploads/2024/01/alego.jpg",
+    "categoria": "GOIÁS",
+    "data": "16/02/2025"
+  },
+  {
+    "url": "https://portal6.com.br/2025/02/16/esquema-de-r-190-milhoes-em-frigorificos-e-acougues-de-goias-e-investigado-pela-policia-civil/",
+    "titulo": "Esquema de R$ 190 milhões em frigoríficos de Goiás é investigado",
+    "imagem": "https://portal6.com.br/wp-content/uploads/2024/02/policia-civil.jpg",
+    "categoria": "POLICIAL",
+    "data": "16/02/2025"
+  },
+  {
+    "url": "https://portal6.com.br/2025/02/16/ceo-da-uber-faz-alerta-preocupante-para-motoristas-de-aplicativo/",
+    "titulo": "CEO da Uber faz alerta preocupante para motoristas de aplicativo",
+    "imagem": "https://portal6.com.br/wp-content/uploads/2023/10/uber-motorista.jpg",
+    "categoria": "ECONOMIA",
+    "data": "16/02/2025"
   }
 ]
